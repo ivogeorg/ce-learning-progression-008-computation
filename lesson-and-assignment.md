@@ -2,11 +2,11 @@
 
 Author: Ivo Georgiev, PhD  
 Last updated: 2020-03-18   
-Code: 9acff7cc344309ac25976869a50535751d4b970d      
+Code: e02fe74e01fac3e69c007201899eb5771ccbe198      
 
 ![alt text](images/CPE-Asst6-Modulo-Ctr.jpg "Final circuit for CPE 1040 Asst 6")
 
-This is lesson and assignment 007 for the Spring 2020 installment of the CPE 1040 - Intro to Computer Engineering course at MSU Denver.
+This is lesson and assignment 008 for the Spring 2020 installment of the CPE 1040 - Intro to Computer Engineering course at MSU Denver.
 
 **NOTE:** 
 1. This lesson & assignment [README](README.md) is _intentionally_ blank, to be used as the **Lab Notebook** for the study & submission. _It is a great aid for your study and the main component of your submission._
@@ -22,60 +22,23 @@ This is lesson and assignment 007 for the Spring 2020 installment of the CPE 104
 
 **TODO**
 
-## Lesson & Assignment 007: Logic gates
+## Lesson & Assignment 008: Logic gates
 
 **TODO:** Overview of both lesson and assignment.
 
-### Section 1: AND, OR, and NOT gates from NPN transistors
+### Section 1: 1-bit half adder from logic gates
 
-**TODO**
+**TODO:** Including XOR/XNOR mux.
 
-### Section 2: Drive and read a gate with the micro:bit
+### Section 2: 1-bit half adder from NAND gates
 
-**TODO**
+### Section 3: 1-bit full adder from logic gates
 
-### Section 3: Logic gate ICs
+### Section 4: 2-bit half-adder with the micro:bit
 
-**TODO**
 
-### Section 4: Combinational logic
 
-**TODO:** Functional sets (???) and building the other gates with them.
 
-### Section 5: Truth table on the micro:bit
-
-**TODO**
-
-### Section 6: Bi-directional 3-bit binary ripple counter (asynchronous)
-
-**TODO**
-
-### Section 7: Bi-directional synchronous 3-bit binary counter
-
-**TODO**
-
-### Section 8: Bi-directional modulo-5 counter
-
-**TODO:** Introduce combinational circuits!
-
-#### 5.1 Study
-
-**TODO**
-
-#### 5.2 Apply
-
-1. Build a [_combinational circuit_](https://www.electronics-tutorials.ws/combination/comb_1.html) out of [_logic gate_](https://en.wikipedia.org/wiki/Logic_gate) [ICs](https://en.wikipedia.org/wiki/List_of_7400-series_integrated_circuits) (AND, OR, NOT, etc.) to drive one of the control signals to change your circuit from a mod-8 counter to a **mod-5 counter**:
-   1. Design the signal necessary to force the counter to cycle back to `000` before it reaches `101`.
-   2. Ask staff for the logic gates you need. _We have a variety of [74LS00 chips](https://en.wikipedia.org/wiki/List_of_7400-series_integrated_circuits)._
-   3. Build the circuit. _Note: Don't forget to power and ground the ICs._
-2. Record a video showing mod-5 counting and link in README.
-3. Now disconnect the combinatorial circuit and modify your program to do the same thing with the clear control signal that comes from the micro:bit.
-4. Commit to your repository as file `mod-5-clr.js`.
-5. Record a video showing mod-5 counter without external logic gates, and link to README with a brief explanation of your code.
-
-#### 5.3
-
-**TODO**
 
 ## Resources
 
