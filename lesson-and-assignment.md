@@ -22,7 +22,7 @@ This is lesson and assignment 008 for the Spring 2020 installment of the CPE 104
 
 **TODO**
 
-## Lesson & Assignment 008: Logic gates
+## Lesson & Assignment 008: Binary Arithmetic
 
 **TODO:** Overview of both lesson and assignment.
 
