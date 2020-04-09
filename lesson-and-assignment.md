@@ -36,8 +36,17 @@ This is lesson and assignment 008 for the Spring 2020 installment of the CPE 104
 
 ### Section 4: 2-bit half-adder with the micro:bit
 
+### Section 5: 2-bit binary multiplier
 
+### Section 6: Shift register with D-type flip-flops
 
+**TODO:** Parallel and serial shift register
+
+### Section 7: One-instruction set computer
+
+**TODO:** Random-access machine, counter-machine model
+
+### Section 8: Turing machine implementation
 
 
 ## Resources
