@@ -1,7 +1,7 @@
 # CPE 1040 - Spring 2020
 
 Author: Ivo Georgiev, PhD  
-Last updated: 2020-03-18   
+Last updated: 2020-04-09   
 Code: e02fe74e01fac3e69c007201899eb5771ccbe198      
 
 ![alt text](images/CPE-Asst6-Modulo-Ctr.jpg "Final circuit for CPE 1040 Asst 6")
@@ -22,7 +22,7 @@ This is lesson and assignment 008 for the Spring 2020 installment of the CPE 104
 
 **TODO**
 
-## Lesson & Assignment 008: Binary Arithmetic
+## Lesson & Assignment 008: Computation
 
 **TODO:** Overview of both lesson and assignment.
 
