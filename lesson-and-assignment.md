@@ -1,7 +1,7 @@
 # CPE 1040 - Spring 2020
 
 Author: Ivo Georgiev, PhD  
-Last updated: 2020-04-09   
+Last updated: 2020-04-28   
 Code: e02fe74e01fac3e69c007201899eb5771ccbe198      
 
 ![alt text](images/CPE-Asst6-Modulo-Ctr.jpg "Final circuit for CPE 1040 Asst 6")
@@ -21,6 +21,10 @@ This is lesson and assignment 008 for the Spring 2020 installment of the CPE 104
 ## Learning how to learn
 
 **TODO**
+
+1. Transfer learning in machines and humans.
+   - [alignment of conceptual systems](https://arxiv.org/abs/1906.09012)
+   - the more systems the better humans learn
 
 ## Lesson & Assignment 008: Computation
 
