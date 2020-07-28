@@ -1,7 +1,7 @@
 # CPE 1040 - Spring 2020
 
 Author: Ivo Georgiev, PhD  
-Last updated: 2020-04-28   
+Last updated: 2020-07-27   
 Code: e02fe74e01fac3e69c007201899eb5771ccbe198      
 
 ![alt text](images/CPE-Asst6-Modulo-Ctr.jpg "Final circuit for CPE 1040 Asst 6")
@@ -36,25 +36,25 @@ This is lesson and assignment 008 for the Spring 2020 installment of the CPE 104
 
 ### Section 1: 1-bit half adder from logic gates
 
-**TODO:** Including XOR/XNOR mux.
+**TODO:** Including XOR/XNOR mux. This might be discarded from kit or unavailable in the 4000 CMOS family.
 
 ### Section 2: 1-bit half adder from NAND gates
 
-### Section 3: 1-bit full adder from logic gates
+### Section 3: 2-bit full adder from logic gates
 
-### Section 4: 2-bit half-adder with the micro:bit
+### Section 4: 4-bit full-adder with the micro:bit
 
-### Section 5: 2-bit binary multiplier
+### Section 5: 4-bit binary multiplier
 
 ### Section 6: Shift register with D-type flip-flops
 
-**TODO:** Parallel and serial shift register
+**TODO:** Parallel and serial shift register, from 4000 CMOS family and built from flip-flops/latches
 
 ### Section 7: One-instruction set computer
 
-**TODO:** Random-access machine, counter-machine model
+**TODO:** Composite atomic instruction, micro-programs for common operations, random-access machine, counter-machine model
 
-### Section 8: Turing machine implementation
+### Section 8: Turing machine implementation in TypeScript
 
 
 ## Resources
