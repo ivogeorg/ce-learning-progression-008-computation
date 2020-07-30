@@ -4,7 +4,7 @@ Author: Ivo Georgiev, PhD
 Last updated: 2020-07-27   
 Code: e02fe74e01fac3e69c007201899eb5771ccbe198      
 
-![alt text](images/CPE-Asst6-Modulo-Ctr.jpg "Final circuit for CPE 1040 Asst 6")
+![alt text](images/TODO.jpg "TODO")
 
 This is lesson and assignment 008 for the Spring 2020 installment of the CPE 1040 - Intro to Computer Engineering course at MSU Denver.
 
@@ -36,25 +36,59 @@ This is lesson and assignment 008 for the Spring 2020 installment of the CPE 104
 
 ### Section 1: 1-bit half adder from logic gates
 
+_Note: Two 1-bit inputs._
+
 **TODO:** Including XOR/XNOR mux. This might be discarded from kit or unavailable in the 4000 CMOS family.
 
 ### Section 2: 1-bit half adder from NAND gates
 
 ### Section 3: 2-bit full adder from logic gates
 
+_Note: Two 2-bit inputs._
+
 ### Section 4: 4-bit full-adder with the micro:bit
+
+_Note: micro:bit I/O._
 
 ### Section 5: 4-bit binary multiplier
 
-### Section 6: Shift register with D-type flip-flops
+### Section 6: Shift register from latches
 
-**TODO:** Parallel and serial shift register, from 4000 CMOS family and built from flip-flops/latches
+**TODO:** 
+1. Memory and intepretation of data.  
+2. Shifting and arithmetic vs logic padding.  
+3. Parallel and serial shift register.  
+4. From [4000 CMOS Series list](http://users.telenet.be/egg/5EE/Lijst%204000%20CMOS%20logische%20ICs.pdf).  
 
-### Section 7: One-instruction set computer
+### Section 7: Memory read/write
+
+**TODO:** 
+1. Data and control.
+2. Can use [4505 - 64-bit, 1-bit per word Random Access Memory (RAM)](https://www.digchip.com/datasheets/parts/datasheet/364/HEF4505BF-pdf.php).  
+
+### Section 8: Decoders & multiplexors
+
+**TODO:**
+1. From [4000 CMOS Series list](http://users.telenet.be/egg/5EE/Lijst%204000%20CMOS%20logische%20ICs.pdf).  
+
+### Section 9: ALU
+
+**TODO:**
+1. Control lines.  
+2. Functions and bitwidth.  
+3. Bit slice.  
+4. [40181 - 4-bit 16-functions arithmetic logic unit (ALU)](https://www.digchip.com/datasheets/parts/datasheet/235/CD40181-pdf.php).  
+
+### Section 10: One-instruction set computer
 
 **TODO:** Composite atomic instruction, micro-programs for common operations, random-access machine, counter-machine model
 
-### Section 8: Turing machine implementation in TypeScript
+### Section 11: Turing machine: Mathematical model of computation
+
+**TODO:**
+1. Model: Operations (processing), memory, I/O, control.  
+2. Programs for arithmetic functions.  
+3. Implementation in TypeScript.
 
 
 ## Resources
