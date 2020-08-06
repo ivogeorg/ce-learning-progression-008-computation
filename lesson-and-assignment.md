@@ -18,18 +18,6 @@ This is lesson and assignment 008 for the Spring 2020 installment of the CPE 104
 
 **TODO**
 
-## Learning how to learn
-
-**TODO**
-
-### Learning How to Learn 04
-
-1. Transfer learning in machines and humans.
-   - [alignment of conceptual systems](https://arxiv.org/abs/1906.09012)
-   - the more systems the better humans learn
-   
-2. Chunking.
-
 ## Lesson & Assignment 008: Computation
 
 **TODO:** Overview of both lesson and assignment.
